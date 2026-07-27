@@ -75,6 +75,7 @@ Now the data has meaning and can be used for analysis and decision-making.
 | Used for processing | Used for decision making |
 
 ---
+# Types of Data
 # Qualitative Data and Quantitative Data
 
 ## Qualitative Data (Categorical Data)
