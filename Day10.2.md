@@ -75,8 +75,59 @@ Now the data has meaning and can be used for analysis and decision-making.
 | Used for processing | Used for decision making |
 
 ---
+# Qualitative Data and Quantitative Data
 
-# Types of Data
+## Qualitative Data (Categorical Data)
+
+**Definition:**  
+Qualitative data describes **qualities, characteristics, or categories**. It is **non-numerical** and cannot be measured using numbers.
+
+**Examples:**
+- Gender
+- Blood Group
+- Eye Color
+- Department
+- Customer Satisfaction
+
+**Types:**
+- **Nominal:** Categories with no order (e.g., Gender, Blood Group)
+- **Ordinal:** Categories with an order (e.g., Excellent, Good, Average, Poor)
+
+---
+
+## Quantitative Data (Numerical Data)
+
+**Definition:**  
+Quantitative data represents **numbers that can be counted or measured**. Mathematical operations can be performed on this data.
+
+**Examples:**
+- Age
+- Height
+- Weight
+- Salary
+- Number of Students
+
+**Types:**
+- **Discrete:** Countable values (e.g., Number of Students, Number of Cars)
+- **Continuous:** Measurable values (e.g., Height, Weight, Temperature)
+
+---
+
+## Difference Between Qualitative and Quantitative Data
+
+| Qualitative Data | Quantitative Data |
+|------------------|-------------------|
+| Non-numerical | Numerical |
+| Describes qualities | Measures quantities |
+| Used for categorization | Used for measurement and analysis |
+| Example: Gender | Example: Age |
+
+### Easy Trick to Remember
+
+- **Qualitative = Quality** → Describes characteristics.
+- **Quantitative = Quantity** → Measures numbers.
+
+# Sub-Types of Data
 
 Data can be classified into different categories depending on its purpose and source.
 
