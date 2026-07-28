@@ -22,7 +22,7 @@
 
 # Introduction
 
-ApexAIQ is an **AI-powered IT Asset Intelligence and Governance Platform** that helps organizations manage their IT assets throughout their lifecycle. It collects, validates, analyzes, and visualizes asset data to support better business decisions, improve cybersecurity, ensure compliance, and optimize maintenance.
+ApexAIQ is an ** IT Asset Intelligence and Governance Platform** that helps organizations manage their IT assets throughout their lifecycle. It collects, validates, analyzes, and visualizes asset data to support better business decisions, improve cybersecurity, ensure compliance, and optimize maintenance.
 
 ---
 
