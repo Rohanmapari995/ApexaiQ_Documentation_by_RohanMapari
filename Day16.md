@@ -310,13 +310,3 @@ docker exec -it <container_id> bash
 DevOps, Containers, and Docker are essential technologies in modern software development. DevOps improves collaboration and automation, Containers provide isolated execution environments, and Docker simplifies container creation and deployment. Together they enable faster, more reliable, and scalable application delivery.
 
 ---
-
-# 👨‍💻 Author
-
-Your Name
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
